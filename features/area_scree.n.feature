@@ -4,3 +4,5 @@ Feature: User is able to convert area units
         Given I land on help popup
         When i click on Got it button
         Then I land on Area screen
+
+    Scenario: User is able to swap values
